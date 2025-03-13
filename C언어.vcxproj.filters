@@ -13,19 +13,70 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\chap01 C언어 시작하기">
+    <Filter Include="소스 파일\Chap01 C언어 시작하기">
       <UniqueIdentifier>{871870c8-72b4-4003-b838-7d385bfeba0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap02 자료형, 변수, 상수">
+      <UniqueIdentifier>{b9679a17-818a-4e55-bf85-15c859d8e118}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap03 자료의입출력">
+      <UniqueIdentifier>{f4915dcc-d047-4df7-b73f-4edf3bcc2cb8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Ex01_Hello World.c">
-      <Filter>소스 파일\chap01 C언어 시작하기</Filter>
+      <Filter>소스 파일\Chap01 C언어 시작하기</Filter>
     </ClCompile>
     <ClCompile Include="EX02_판매결과.c">
-      <Filter>소스 파일\chap01 C언어 시작하기</Filter>
+      <Filter>소스 파일\Chap01 C언어 시작하기</Filter>
     </ClCompile>
     <ClCompile Include="Ex03_알파벳.c">
-      <Filter>소스 파일\chap01 C언어 시작하기</Filter>
+      <Filter>소스 파일\Chap01 C언어 시작하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_주석.c">
+      <Filter>소스 파일\Chap01 C언어 시작하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_서식문자.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_원의 넓이.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_사다리꼴.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_아스키코드.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_상수.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_마일to킬로미터.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_섭씨to화씨.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_성적.c">
+      <Filter>소스 파일\Chap02 자료형, 변수, 상수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_원의넓이_입력.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_사다리꼴_입력.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_아스키코드_입력.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_야드to미터_입력.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="1번.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="2번.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
