@@ -22,6 +22,18 @@
     <Filter Include="소스 파일\Chap03 자료의입출력">
       <UniqueIdentifier>{f4915dcc-d047-4df7-b73f-4edf3bcc2cb8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chap04 연산자">
+      <UniqueIdentifier>{ad8db9f1-8b84-40d1-bb77-04a37740bea8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap05 if문">
+      <UniqueIdentifier>{5b36f356-8e46-4147-ba72-8ae97f0bf976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap06 switch문">
+      <UniqueIdentifier>{dc62f8a5-a028-427a-9e42-476009d44e95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap07 for문">
+      <UniqueIdentifier>{ee505ee7-477b-431c-a28c-b5f1d9494edd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Ex01_Hello World.c">
@@ -77,6 +89,117 @@
     </ClCompile>
     <ClCompile Include="2번.c">
       <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="평균구하기.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_급여계산.c">
+      <Filter>소스 파일\Chap03 자료의입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_산술연산자.c">
+      <Filter>소스 파일\Chap04 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_거스름돈계산.c">
+      <Filter>소스 파일\Chap04 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_증감연산자.c">
+      <Filter>소스 파일\Chap04 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_조건연산지.c">
+      <Filter>소스 파일\Chap04 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_형변환연산자.c">
+      <Filter>소스 파일\Chap04 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_sizeof.c">
+      <Filter>소스 파일\Chap04 연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_단순if문.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_입장료 계산.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_대문자변환.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_if_else.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_짝수홀수판별.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_입장여부판별.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_몫과나머지.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_다중if.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_가위바위보출력.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex10_큰수 출력.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex11_메세지출력.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex12_대소문자변환.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex13_3개중최대값 출력.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="1_번.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="2_번.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="3_번.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="4_번.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex14_if문의 중첩.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex_15_성적.c">
+      <Filter>소스 파일\Chap05 if문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_switch문.c">
+      <Filter>소스 파일\Chap06 switch문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_switch문_2.c">
+      <Filter>소스 파일\Chap06 switch문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_switch문_짝홀.c">
+      <Filter>소스 파일\Chap06 switch문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_switch자음모음판별.c">
+      <Filter>소스 파일\Chap06 switch문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex_05_switch문_성적계산.c">
+      <Filter>소스 파일\Chap06 switch문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_for문.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_이중for문.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_구구단.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_별찍기.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
