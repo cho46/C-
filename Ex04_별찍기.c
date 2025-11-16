@@ -3,7 +3,7 @@
 
 int main()
 {
-
+		//역별
 	int i, j;
 
 	for (i = 1;i<=5;i++)
@@ -15,7 +15,7 @@ int main()
 		puts("");
 	}
 
-
+	//56789 45678
 	for (i = 5; i >= 1; i--)
 	{
 		for (j = i; j<=i+4; j++)
@@ -26,7 +26,7 @@ int main()
 	}
 
 	puts("");
-
+	//1000000200000...
 	for (i = 1; i <= 7; i++)
 	{
 		for (j = 1; j <= 7; j++)
@@ -49,7 +49,7 @@ int main()
 	puts("");
 
 
-
+	//1001110000
 	for (i = 1; i <= 9; i++)
 	{
 		for (j = 1; j <= i; j++)
@@ -67,7 +67,7 @@ int main()
 		puts("");
 	}
 	puts("");
-
+	//별 피라미드
 	int k;
 	for (i = 1; i <= 5; i++)
 	{
@@ -81,7 +81,7 @@ int main()
 		{
 			printf("*");
 		}
-
+		
 		puts("");
 	}
 

@@ -34,6 +34,54 @@
     <Filter Include="소스 파일\Chap07 for문">
       <UniqueIdentifier>{ee505ee7-477b-431c-a28c-b5f1d9494edd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chap08 while문">
+      <UniqueIdentifier>{99e4609e-04b7-4a03-9bcb-8a805e111125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap09 rand함수">
+      <UniqueIdentifier>{d5c41dbb-69d7-4cdf-a32e-41b1b89518ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap10 배열">
+      <UniqueIdentifier>{2308ed31-14d3-46bb-b296-3bed56bc7504}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap11 2차원배열">
+      <UniqueIdentifier>{59a9837e-a9ab-4514-9d85-9dc07d5dcb8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap12 함수">
+      <UniqueIdentifier>{56702d7d-4236-4a2b-adc6-dc8ca50c0cc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap13 포인터">
+      <UniqueIdentifier>{e8254cc7-89b4-4e74-ba8c-3e383e2f8ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap14 포인터와 배열">
+      <UniqueIdentifier>{cf9b07eb-ab9d-4655-8927-09745b431bf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap15 문자열">
+      <UniqueIdentifier>{336877e6-0cce-432c-a54e-8aa096325148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap16 문자열함수">
+      <UniqueIdentifier>{654653b7-9b7c-4e04-a0e1-fb233107de11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap17 구조체">
+      <UniqueIdentifier>{de35d0d9-7857-49fd-a34c-e83b1a932880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap18 파일입출력">
+      <UniqueIdentifier>{38b2b3f9-f233-4c8a-9f1a-0db05bcd81a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap19 연결리스트">
+      <UniqueIdentifier>{46476bc2-e615-46b2-b328-d9c2587142e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap20 스택">
+      <UniqueIdentifier>{ef000ec4-b314-4fd9-88b9-e179f9a89d52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap21 큐">
+      <UniqueIdentifier>{595fa2ea-b785-40c8-a986-37b139e0fdef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap22 재귀함수">
+      <UniqueIdentifier>{fa7f42a3-c4fb-4cde-87f8-1c7f007a571a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chap23 이진검색트리">
+      <UniqueIdentifier>{e315efa8-004c-4937-8940-df71a8e0b897}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Ex01_Hello World.c">
@@ -201,5 +249,340 @@
     <ClCompile Include="Ex01.c">
       <Filter>소스 파일\Chap07 for문</Filter>
     </ClCompile>
+    <ClCompile Include="Ex02.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_1부터100까지.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_별찍기.c">
+      <Filter>소스 파일\Chap07 for문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_while문.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02.break_continue.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_범위의수입력.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_정수의합.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_버퍼.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_버퍼1.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_제곱근.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08.시분 입력.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_사칙연산.c">
+      <Filter>소스 파일\Chap08 while문</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_난수.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_덧셈프로그램.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="250327_Ex01.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="250327_Ex02.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="250327_Ex03.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="250327_Ex04.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="덧셈프로그램%281~4%29.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03.가위바위보.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="EX04_369.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_숫자맞추기.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_소수구하기.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07.범위의 소수.c">
+      <Filter>소스 파일\Chap09 rand함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_배열.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_최대값.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_랜덤알파벳.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="EX04_순위구하기.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_배열 초기화.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="250403_Ex01.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="250403_Ex02.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="250403_Ex03.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="250403_Ex04.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_정렬.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_역순저장.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_윤년판별.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09_100일계산.c">
+      <Filter>소스 파일\Chap10 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_다차원배열.c">
+      <Filter>소스 파일\Chap11 2차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_구간의 합.c">
+      <Filter>소스 파일\Chap11 2차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_중복제거숫자.c">
+      <Filter>소스 파일\Chap11 2차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_수직막대그래프.c">
+      <Filter>소스 파일\Chap11 2차원배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_함수.c">
+      <Filter>소스 파일\Chap12 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_인수.c">
+      <Filter>소스 파일\Chap12 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03.리턴.c">
+      <Filter>소스 파일\Chap12 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_문자판별함수.c">
+      <Filter>소스 파일\Chap12 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="250410_Ex01.c">
+      <Filter>소스 파일\Chap12 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_포인터.c">
+      <Filter>소스 파일\Chap13 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_call by reference.c">
+      <Filter>소스 파일\Chap13 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_call by reference, return.c">
+      <Filter>소스 파일\Chap13 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_포인터의 활용.c">
+      <Filter>소스 파일\Chap13 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_포인터의 활용_1.c">
+      <Filter>소스 파일\Chap13 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_삼각형.c">
+      <Filter>소스 파일\Chap13 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_지역변수와 전역변수.c">
+      <Filter>소스 파일\Chap12 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_정적변수.c">
+      <Filter>소스 파일\Chap12 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_포인터와 배열.c">
+      <Filter>소스 파일\Chap14 포인터와 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_포인터와 배열_1.c">
+      <Filter>소스 파일\Chap14 포인터와 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_포인터와 배열_2.c">
+      <Filter>소스 파일\Chap14 포인터와 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_랜덤 짝궁 정하기.c">
+      <Filter>소스 파일\Chap14 포인터와 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_숨겨진 숫자찾기.c">
+      <Filter>소스 파일\Chap14 포인터와 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="250415_Ex01.c">
+      <Filter>소스 파일\Chap14 포인터와 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_문자열상수.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_문자열 입력함수.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_문자변환.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_문자개수카운트.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_숫자형태의 문자.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_100점 인생.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_알파벳 개수.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08.주민등록번호체크.c">
+      <Filter>소스 파일\Chap15 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_strlen함수.c">
+      <Filter>소스 파일\Chap16 문자열함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_strcpy함수.c">
+      <Filter>소스 파일\Chap16 문자열함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_strcat함수.c">
+      <Filter>소스 파일\Chap16 문자열함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_구조체.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_구조체배열.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_도서관리프로그램.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_학생 점수 관리 프로그램.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_구조체와 포인터.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex06_구조체배열 포인터.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="250424_Ex01.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_전화번호부.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_학생성적관리.c">
+      <Filter>소스 파일\Chap17 구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_파일입출력.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_fputc.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_fgetc.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_copy.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex05_fgets.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07_fprintf.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08_fscanf.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="영어타자연습.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="250522_Ex02.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="250522_Ex03.c">
+      <Filter>소스 파일\Chap18 파일입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_단일연결리스트.c">
+      <Filter>소스 파일\Chap19 연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_malloc.c">
+      <Filter>소스 파일\Chap19 연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호부_단일연결리스트.c">
+      <Filter>소스 파일\Chap19 연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_배열을 이용한 스택.c">
+      <Filter>소스 파일\Chap20 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_연결리스트를 이용한 스택.c">
+      <Filter>소스 파일\Chap20 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_진법변환.c">
+      <Filter>소스 파일\Chap20 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_후위표기식계산.c">
+      <Filter>소스 파일\Chap20 스택</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_배열을 이용한 큐.c">
+      <Filter>소스 파일\Chap21 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_연결리스트를 이용한 큐.c">
+      <Filter>소스 파일\Chap21 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_회전하는 큐.c">
+      <Filter>소스 파일\Chap21 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_요세푸스큐.c">
+      <Filter>소스 파일\Chap21 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_재귀함수.c">
+      <Filter>소스 파일\Chap22 재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex02_거듭제곱.c">
+      <Filter>소스 파일\Chap22 재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex03_피보나치수열.c">
+      <Filter>소스 파일\Chap22 재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_이진탐색.c">
+      <Filter>소스 파일\Chap22 재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex01_이진검색트리.c">
+      <Filter>소스 파일\Chap23 이진검색트리</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myheader.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
